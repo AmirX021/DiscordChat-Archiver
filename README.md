@@ -30,7 +30,8 @@ A powerful, feature-rich Python application that archives your Discord direct me
 
 ## 🖼️ Screenshots
 
-*(Add screenshots of your application here)*
+<img width="1002" height="825" alt="{6046B641-DFBE-4E6D-A31E-7BF83EC7A189}" src="https://github.com/user-attachments/assets/a3a32ee8-5111-4ec2-81c0-45a537c792a1" />
+
 
 ## 🛠️ Installation
 
@@ -40,8 +41,8 @@ A powerful, feature-rich Python application that archives your Discord direct me
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/discord-dm-archiver.git
-cd discord-dm-archiver
+git clone https://github.com/AmirX021/DiscordChat-Archiver.git
+cd DiscordChat-Archiver
 ```
 
 ### Step 2: Install Dependencies
@@ -57,7 +58,7 @@ pip install requests pillow tkinter
 
 ### Step 4: Run the Application
 ```bash
-python discord_archiver.py
+python DiscordChat-Archiver.py
 ```
 
 ## 🎯 Usage
@@ -157,14 +158,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Python community for excellent libraries
 - Contributors and testers
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-1. Check the troubleshooting section above
-2. Search existing GitHub issues
-3. Create a new issue with detailed information
-
----
+--
 
 **⭐ If you find this project useful, please give it a star on GitHub!**
 
