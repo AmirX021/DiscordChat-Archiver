@@ -97,11 +97,7 @@ discord_archives/
 ### Legal Disclaimer
 > **Warning**: Using self-bots is against Discord's Terms of Service. This tool is intended for educational purposes and personal archiving. Use at your own risk and respect Discord's API rate limits.
 
-### Best Practices
-- 🔒 **Keep your token secure** - Never share it publicly
-- ⏰ **Archive during off-peak hours** - Avoid rate limiting
-- 💾 **Backup regularly** - Don't rely solely on this tool
-- 📊 **Test with small chats first** - Verify everything works
+
 
 ## 🐛 Troubleshooting
 
